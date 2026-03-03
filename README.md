@@ -16,3 +16,4 @@ A Python project using NumPy to analyze student performance data.
 - argsort()
 - Boolean indexing
 - Vectorized computation
+# Output Screenshot
